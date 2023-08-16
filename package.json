@@ -10,7 +10,7 @@
     "@eulerxyz/euler-sdk": "^0.2.10",
     "@flashbots/ethers-provider-bundle": "^0.5.0",
     "@nomiclabs/hardhat-ethers": "^2.0.2",
-    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
     "@uniswap/v3-periphery": "^1.1.1",
     "@uniswap/v3-sdk": "^3.8.2",
     "axios": "^0.27.2",
@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "dotenv": "^10.0.0",
-    "ethereum-waffle": "^3.3.0",
+    "ethereum-waffle": "^4.0.10",
     "euler-contracts": "github:euler-xyz/euler-contracts",
     "hardhat": "^2.7.0",
     "hardhat-dependency-compiler": "^1.1.2",
